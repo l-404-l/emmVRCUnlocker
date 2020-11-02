@@ -39,9 +39,6 @@
       <HintPath>..\..\steam\steamapps\common\VRChat\MelonLoader\Managed\Assembly-CSharp-firstpass.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="EmmVRC">
-      <HintPath>..\..\steam\steamapps\common\VRChat\EmmVRC.dll</HintPath>
-    </Reference>
     <Reference Include="Il2Cppmscorlib">
       <HintPath>..\..\steam\steamapps\common\VRChat\MelonLoader\Managed\Il2Cppmscorlib.dll</HintPath>
       <Private>False</Private>
@@ -73,10 +70,6 @@
     </Reference>
     <Reference Include="UnhollowerRuntimeLib">
       <HintPath>..\..\steam\steamapps\common\VRChat\MelonLoader\Managed\UnhollowerRuntimeLib.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="UniPasteBoardPlugin">
-      <HintPath>..\..\steam\steamapps\common\VRChat\MelonLoader\Managed\UniPasteBoardPlugin.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Postprocessing.Runtime">
@@ -113,10 +106,6 @@
     </Reference>
     <Reference Include="UnityEngine.CoreModule">
       <HintPath>..\..\steam\steamapps\common\VRChat\MelonLoader\Managed\UnityEngine.CoreModule.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="UnityEngine.CrashLog">
-      <HintPath>..\..\steam\steamapps\common\VRChat\MelonLoader\Managed\UnityEngine.CrashLog.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine.CrashReportingModule">
